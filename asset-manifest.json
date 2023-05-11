@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Multipage_website/static/css/main.2a46e8c3.css",
+    "main.js": "/React_Multipage_website/static/js/main.f523b989.js",
+    "index.html": "/React_Multipage_website/index.html",
+    "main.2a46e8c3.css.map": "/React_Multipage_website/static/css/main.2a46e8c3.css.map",
+    "main.f523b989.js.map": "/React_Multipage_website/static/js/main.f523b989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a46e8c3.css",
+    "static/js/main.f523b989.js"
+  ]
+}
